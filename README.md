@@ -29,8 +29,6 @@
 ---
 
 ### 📊 Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nil-gascon&show_icons=true&locale=en&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nil-gascon&show_icons=true&locale=en)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nil-gascon)
