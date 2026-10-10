@@ -4,7 +4,7 @@
 ---
 
 ### 💼 What I do
-- **Network & Systems Engineer at [Brain2Store](https://www.linkedin.com/company/brain2store/)** (Aug 2026 – present): incident and ticket resolution, troubleshooting of server and network issues, and ongoing infrastructure assessment across multiple clients.
+- **Network & Systems Engineer at [Unikal](https://www.linkedin.com/company/unikaltechpartners/)** (Aug 2026 – present): incident and ticket resolution, troubleshooting of server and network issues, and ongoing infrastructure assessment across multiple clients.
 - Previously **Systems Engineering & Infrastructure Audit Intern** at Brain2Store (Sep 2025 – Jul 2026), working with NetApp, VMware and multi-client infrastructures.
 - **IT Infrastructure Renewal & Management Lead** for a pharmacy business: custom-built server, Proxmox virtualization, VLAN-segmented network, internal NAS-style storage and a backup strategy.
 - Freelance **private tutor** in programming, maths and physics (2022–2026).
@@ -44,8 +44,3 @@
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a>
 </p>
-
----
-
-### 📊 Statistics
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nil-gascon)
