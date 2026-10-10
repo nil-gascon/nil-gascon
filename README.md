@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nil Gascón</h1>
-<h3 align="center">Network & Systems Engineer based in Sabadell, Catalonia (Spain). Computer Engineer from UAB, combining systems administration and networking in real-world, multi-client infrastructure environments.</h3>
+<h3 align="center">Network & Systems Engineer based in Barcelona, Catalonia (Spain). Computer Engineer from UAB, combining systems administration and networking in real-world, multi-client infrastructure environments.</h3>
 
 ---
 
